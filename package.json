@@ -26,6 +26,7 @@
   "devDependencies": {
     "@biomejs/biome": "2.2.0",
     "@chromatic-com/storybook": "^4.1.1",
+    "@playwright/test": "^1.55.0",
     "@storybook/addon-a11y": "^9.1.7",
     "@storybook/addon-actions": "^9.0.8",
     "@storybook/addon-backgrounds": "^9.0.8",
