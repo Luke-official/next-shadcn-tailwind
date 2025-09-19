@@ -1,9 +1,3 @@
-Here's a README for a monorepo boilerplate built with Next.js, Shadcn UI, Tailwind CSS, Storybook, and Playwright.
-
-<br>
-
----
-
 ## Next.js Monorepo Boilerplate
 
 This is a modern boilerplate for a Next.js monorepo application. It includes a robust stack designed for rapid development, testing, and documentation.
